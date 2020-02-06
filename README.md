@@ -1,3 +1,3 @@
 # Mining Massive Datasets
 
-### CS246 Colab Files and additional materials accompanied with the course
+These are CS246 Colab Files plus additional materials accompanied with the course.
